@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: YoutubeVideoTrimmer
+Version: 0.0.4
+Summary: A compact solution for trimming YouTube videos You may get the desired output video clip by providing the YouTube video URL and required duration.
+Home-page: https://www.karuwy.com/
+Author: Arunkumar Palani
+Author-email: arunkumarpas002@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+
+UNKNOWN
+

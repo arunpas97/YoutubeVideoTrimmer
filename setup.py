@@ -1,0 +1,26 @@
+import setuptools
+setuptools.setup(
+    name="YoutubeVideoTrimmer",
+    version="0.0.4",
+    author="Arunkumar Palani",
+    author_email="arunkumarpas002@gmail.com",
+    description="A compact solution for trimming YouTube videos You may get the desired output video clip by providing the YouTube video URL and required duration.",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+        "Topic :: Internet",
+        "Topic :: Multimedia :: Video",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Terminals",
+        "Topic :: Utilities",
+        "Natural Language :: English",        
+        "Intended Audience :: Users",
+        "Environment :: Console and webapp",
+        ],
+    url="https://www.karuwy.com/",
+    include_package_data=True,
+    install_requires=["pytube", "moviepy"],
+    keywords=["youtube", "download", "video", "stream","trimmer","youtube video trimmer","youtube video downloader","youtube video downloader and trimmer"],
+)

@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+YoutubeVideoTrimmer/__init__.py
+YoutubeVideoTrimmer.egg-info/PKG-INFO
+YoutubeVideoTrimmer.egg-info/SOURCES.txt
+YoutubeVideoTrimmer.egg-info/dependency_links.txt
+YoutubeVideoTrimmer.egg-info/requires.txt
+YoutubeVideoTrimmer.egg-info/top_level.txt
